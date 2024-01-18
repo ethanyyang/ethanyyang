@@ -1,5 +1,5 @@
-# Hello there 👋
-Welcome! I'm Ethan, an aspiring Software Engineer.
+# Hello world 👋
+Welcome! I'm Ethan.
 
 ## Contact me
 You can reach me at hi@ethanyang.me
